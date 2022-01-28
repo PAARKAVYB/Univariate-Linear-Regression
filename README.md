@@ -11,6 +11,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 
  ![eqn1](./eq1.jpg)
+
 4.	Compute the y -intercept of the line by using the formula:
 
 ![eqn2](./eq2.jpg)  
